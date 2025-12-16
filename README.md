@@ -33,7 +33,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
-- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/vinod-mural-2235992a1
+- 📧 Email: vinodmural2003@gmail.com 
 
 
