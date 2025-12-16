@@ -1,62 +1,34 @@
 # Hi 👋, I'm Vinod  
 
 🎓 Computer Science Engineering Graduate  
-💻 Aspiring Data Scientist | Data Analyst | ML Enthusiast  
+💻 Aspiring Data Scientist | Machine Learning Enthusiast  
 📍 Bangalore, India  
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Working on **Data Science, Data Analytics & Machine Learning projects**
-- 🌱 Learning **Advanced ML, Power BI & Tableau**
-- 👯 Looking to collaborate on **Python, SQL & Analytics projects**
-- 💬 Ask me about **Python, SQL, MongoDB, Power BI, Tableau**
-- 📫 Reach me at: **your-email@gmail.com**
+- 🔭 I’m currently working on **Data Science & Machine Learning projects**
+- 🌱 I’m learning **Advanced Machine Learning, SQL & Python**
+- 👯 I’m looking to collaborate on **ML, Data Analysis & AI projects**
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics**
+- 📫 How to reach me: vinodmural2003@gmail.com 
 
 ---
 
-## 🛠️ Languages & Tools
-
-### 🧑‍💻 Programming Languages
-- 🐍 **Python**
-- 🗄️ **SQL**
-
-### 🗃️ Databases
-- 🍃 **MongoDB**
-
-### 📊 Data Visualization & BI Tools
-- 📈 **Power BI**
-- 📊 **Tableau**
-
-### 🤖 Machine Learning
-- Linear Regression  
-- Logistic Regression  
-- KNN  
-- K-Means  
-- PCA  
-
-### 🔧 Tools
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebook  
-
----
-
-## 📊 GitHub Stats
-![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+## 🛠️ Skills & Tools
+- **Languages:** Python, SQL  
+- **Machine Learning:** Linear Regression, Logistic Regression, KNN, K-Means, PCA  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
 ## 🚀 Projects
-- 🔹 **Crime Record Management System** (MongoDB, Node.js)
-- 🔹 **Sales Dashboard** (Power BI)
-- 🔹 **Business Insights Dashboard** (Tableau)
-- 🔹 **Fraud Detection using ML (Python)**
+- 🔹 **Crime Record Management System (MongoDB + Node.js)**
+- 🔹 **Fraud Detection using Machine Learning**
+- 🔹 **Data Analysis Projects with Python**
+- 🔹 **AI & LLM-based Applications**
 
 ---
 
@@ -66,4 +38,4 @@
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+⭐ *If you like my work, consider giving a star to my repositories!*
