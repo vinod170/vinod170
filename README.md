@@ -11,7 +11,7 @@
 - 🌱 I’m learning **Advanced Machine Learning, SQL & Python**
 - 👯 I’m looking to collaborate on **ML, Data Analysis & AI projects**
 - 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: vinodmural2003@gmail.com 
 
 ---
 
@@ -23,12 +23,4 @@
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
-
-## 📊 GitHub Stats
-![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.v)
 
