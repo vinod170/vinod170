@@ -11,7 +11,7 @@
 - 🌱 I’m learning **Advanced Machine Learning, SQL & Python**
 - 👯 I’m looking to collaborate on **ML, Data Analysis & AI projects**
 - 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics**
-- 📫 How to reach me: vinodmural2003@gmail.com 
+- 📫 How to reach me: vinodmural2003@gmail.com
 
 ---
 
@@ -34,6 +34,6 @@
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/vinod-mural-2235992a1
-- 📧 Email: vinodmural2003@gmail.com 
+- 📧 Email: vinodmural2003@gmail.com
 
 
