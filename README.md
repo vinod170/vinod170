@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Vinod  
 
-<!--
-**v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Graduate  
+💻 Aspiring Data Scientist | Machine Learning Enthusiast  
+📍 Bangalore, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **Data Science & Machine Learning projects**
+- 🌱 I’m learning **Advanced Machine Learning, SQL & Python**
+- 👯 I’m looking to collaborate on **ML, Data Analysis & AI projects**
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics**
+- 📫 How to reach me: **your-email@gmail.com**
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, SQL  
+- **Machine Learning:** Linear Regression, Logistic Regression, KNN, K-Means, PCA  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+
+---
+
+## 📊 GitHub Stats
+![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.v)
+
